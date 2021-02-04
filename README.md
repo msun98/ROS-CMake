@@ -2,7 +2,7 @@
 
 만든 package를 build하기 위해서 catkin_make를 실행한 다음에, 수정된 사항을 적용해주기 위해
 
-매번 $source ./devel/setup.bash를 쳐야 GKSEK.
+매번 $source ./devel/setup.bash를 쳐야.
 
 ​
 
